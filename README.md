@@ -1,2 +1,2 @@
 # blog
-Blog harness
+Blog harness page for testing the github page capabilities
